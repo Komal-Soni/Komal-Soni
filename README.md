@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently pursuing my M. Tech in Artificial Intelligence and Machine Learning from BITS 
 <!-- - 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/) -->
 
-- 💬 Ask me about: Machine Learning, Artificial Intelligence, Natural Language Processing, Deep Learning, Python
+- 💬 Ask me about Machine Learning, Artificial Intelligence, Natural Language Processing, Deep Learning, Python
 
 - 📫 How to reach me **sk.26komal@gmail.com**
 
-<!-- - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing) -->
+- 📄 Know about my work & experiences [My Resume](https://github.com/Komal-Soni/Komal-Soni/blob/main/KomalSoniResumePublic.pdf)
 
 ### What are my featured projects:question:
 - <code>[AI-Assisted Farming For Crop Recommendation & Farm Yield Prediction Application](https://github.com/Komal-Soni/SBSPS-Challenge)</code>    
