@@ -12,6 +12,9 @@
 - 📄 Know about my work & experiences [My Resume](https://github.com/Komal-Soni/Komal-Soni/blob/main/KomalSoniResumePublic.pdf)
 
 ### What are my featured projects:question:
+
+- <code>[Apperal and Accessories Demand Transfer](https://github.com/Komal-Soni/AnADemandTransfer)</code>📈
+  
 - <code>[AI-Assisted Farming For Crop Recommendation & Farm Yield Prediction Application](https://github.com/Komal-Soni/SBSPS-Challenge)</code> 👨‍🌾
    
 - <code>[Bitcoin Price Prediction using Various Regression based Models](https://github.com/Komal-Soni/BitcoinPricePredictionUsingRegressionBasedModels)</code> 💰
