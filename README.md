@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sk.26komal@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://github.com/Komal-Soni/Komal-Soni/blob/main/KomalSoniResumePublic.pdf)
+- 📄 Know about my work & experiences [My Resume](https://github.com/Komal-Soni/Komal-Soni/blob/main/KomalSoniResume%20(2).pdf)
 
 ### What are my featured projects:question:
 
